@@ -1,5 +1,6 @@
 boto==2.38.0
 Flask==0.10.1
+gunicorn==19.3.0
 itsdangerous==0.24
 Jinja2==2.8
 logutils==0.3.3
